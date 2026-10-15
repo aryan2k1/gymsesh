@@ -1,0 +1,255 @@
+{
+  "version": 1,
+  "templates": [
+    {
+      "name": "Push / Pull / Legs",
+      "type": "PPL",
+      "days": [
+        {
+          "dayName": "Push",
+          "exercises": [
+            { "name": "Barbell Bench Press", "targetSets": 4, "targetReps": 6 },
+            { "name": "Incline Dumbbell Bench Press", "targetSets": 3, "targetReps": 10 },
+            { "name": "Overhead Press", "targetSets": 3, "targetReps": 8 },
+            { "name": "Dumbbell Lateral Raise", "targetSets": 3, "targetReps": 15 },
+            { "name": "Rope Triceps Pushdown", "targetSets": 3, "targetReps": 12 },
+            { "name": "Overhead Dumbbell Triceps Extension", "targetSets": 3, "targetReps": 12 }
+          ]
+        },
+        {
+          "dayName": "Pull",
+          "exercises": [
+            { "name": "Conventional Deadlift", "targetSets": 3, "targetReps": 5 },
+            { "name": "Pull-Up", "targetSets": 3, "targetReps": 8 },
+            { "name": "Barbell Bent-Over Row", "targetSets": 3, "targetReps": 10 },
+            { "name": "Seated Cable Row", "targetSets": 3, "targetReps": 12 },
+            { "name": "Face Pull", "targetSets": 3, "targetReps": 15 },
+            { "name": "Barbell Curl", "targetSets": 3, "targetReps": 10 }
+          ]
+        },
+        {
+          "dayName": "Legs",
+          "exercises": [
+            { "name": "Back Squat", "targetSets": 4, "targetReps": 6 },
+            { "name": "Romanian Deadlift", "targetSets": 3, "targetReps": 10 },
+            { "name": "Leg Press", "targetSets": 3, "targetReps": 12 },
+            { "name": "Lying Leg Curl", "targetSets": 3, "targetReps": 12 },
+            { "name": "Standing Calf Raise", "targetSets": 4, "targetReps": 15 },
+            { "name": "Hanging Leg Raise", "targetSets": 3, "targetReps": 12 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Upper / Lower",
+      "type": "UPPER_LOWER",
+      "days": [
+        {
+          "dayName": "Upper",
+          "exercises": [
+            { "name": "Barbell Bench Press", "targetSets": 4, "targetReps": 8 },
+            { "name": "Barbell Bent-Over Row", "targetSets": 4, "targetReps": 8 },
+            { "name": "Overhead Press", "targetSets": 3, "targetReps": 10 },
+            { "name": "Lat Pulldown", "targetSets": 3, "targetReps": 12 },
+            { "name": "Dumbbell Lateral Raise", "targetSets": 3, "targetReps": 15 },
+            { "name": "Barbell Curl", "targetSets": 3, "targetReps": 12 },
+            { "name": "Triceps Pushdown", "targetSets": 3, "targetReps": 12 }
+          ]
+        },
+        {
+          "dayName": "Lower",
+          "exercises": [
+            { "name": "Back Squat", "targetSets": 4, "targetReps": 8 },
+            { "name": "Romanian Deadlift", "targetSets": 3, "targetReps": 10 },
+            { "name": "Leg Press", "targetSets": 3, "targetReps": 12 },
+            { "name": "Lying Leg Curl", "targetSets": 3, "targetReps": 12 },
+            { "name": "Standing Calf Raise", "targetSets": 4, "targetReps": 15 },
+            { "name": "Hanging Leg Raise", "targetSets": 3, "targetReps": 15 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Full Body",
+      "type": "FULL_BODY",
+      "days": [
+        {
+          "dayName": "Full Body A",
+          "exercises": [
+            { "name": "Back Squat", "targetSets": 3, "targetReps": 8 },
+            { "name": "Barbell Bench Press", "targetSets": 3, "targetReps": 8 },
+            { "name": "Barbell Bent-Over Row", "targetSets": 3, "targetReps": 10 },
+            { "name": "Overhead Press", "targetSets": 3, "targetReps": 10 },
+            { "name": "Barbell Curl", "targetSets": 2, "targetReps": 12 }
+          ]
+        },
+        {
+          "dayName": "Full Body B",
+          "exercises": [
+            { "name": "Conventional Deadlift", "targetSets": 3, "targetReps": 5 },
+            { "name": "Overhead Press", "targetSets": 3, "targetReps": 8 },
+            { "name": "Lat Pulldown", "targetSets": 3, "targetReps": 12 },
+            { "name": "Incline Dumbbell Bench Press", "targetSets": 3, "targetReps": 10 },
+            { "name": "Standing Calf Raise", "targetSets": 3, "targetReps": 15 }
+          ]
+        },
+        {
+          "dayName": "Full Body C",
+          "exercises": [
+            { "name": "Front Squat", "targetSets": 3, "targetReps": 8 },
+            { "name": "Incline Barbell Bench Press", "targetSets": 3, "targetReps": 8 },
+            { "name": "Seated Cable Row", "targetSets": 3, "targetReps": 12 },
+            { "name": "Dumbbell Lateral Raise", "targetSets": 3, "targetReps": 15 },
+            { "name": "Plank", "targetSets": 3, "targetReps": 60 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Arnold Split",
+      "type": "ARNOLD",
+      "days": [
+        {
+          "dayName": "Chest & Back",
+          "exercises": [
+            { "name": "Barbell Bench Press", "targetSets": 4, "targetReps": 8 },
+            { "name": "Incline Dumbbell Bench Press", "targetSets": 3, "targetReps": 10 },
+            { "name": "Dumbbell Chest Flye", "targetSets": 3, "targetReps": 12 },
+            { "name": "Barbell Bent-Over Row", "targetSets": 4, "targetReps": 8 },
+            { "name": "Pull-Up", "targetSets": 3, "targetReps": 10 },
+            { "name": "Seated Cable Row", "targetSets": 3, "targetReps": 12 }
+          ]
+        },
+        {
+          "dayName": "Shoulders & Arms",
+          "exercises": [
+            { "name": "Overhead Press", "targetSets": 4, "targetReps": 8 },
+            { "name": "Dumbbell Lateral Raise", "targetSets": 4, "targetReps": 15 },
+            { "name": "Rear Delt Dumbbell Flye", "targetSets": 3, "targetReps": 15 },
+            { "name": "Barbell Curl", "targetSets": 3, "targetReps": 10 },
+            { "name": "Hammer Curl", "targetSets": 3, "targetReps": 12 },
+            { "name": "Skull Crusher", "targetSets": 3, "targetReps": 10 },
+            { "name": "Rope Triceps Pushdown", "targetSets": 3, "targetReps": 12 }
+          ]
+        },
+        {
+          "dayName": "Legs",
+          "exercises": [
+            { "name": "Back Squat", "targetSets": 4, "targetReps": 8 },
+            { "name": "Romanian Deadlift", "targetSets": 3, "targetReps": 10 },
+            { "name": "Leg Press", "targetSets": 3, "targetReps": 12 },
+            { "name": "Lying Leg Curl", "targetSets": 3, "targetReps": 12 },
+            { "name": "Standing Calf Raise", "targetSets": 4, "targetReps": 15 },
+            { "name": "Hanging Leg Raise", "targetSets": 3, "targetReps": 15 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PHUL (Power / Hypertrophy)",
+      "type": "PHUL",
+      "days": [
+        {
+          "dayName": "Upper Power",
+          "exercises": [
+            { "name": "Barbell Bench Press", "targetSets": 4, "targetReps": 5 },
+            { "name": "Barbell Bent-Over Row", "targetSets": 4, "targetReps": 5 },
+            { "name": "Overhead Press", "targetSets": 3, "targetReps": 6 },
+            { "name": "Pull-Up", "targetSets": 3, "targetReps": 6 },
+            { "name": "Close-Grip Bench Press", "targetSets": 3, "targetReps": 8 }
+          ]
+        },
+        {
+          "dayName": "Lower Power",
+          "exercises": [
+            { "name": "Back Squat", "targetSets": 4, "targetReps": 5 },
+            { "name": "Conventional Deadlift", "targetSets": 3, "targetReps": 5 },
+            { "name": "Leg Press", "targetSets": 3, "targetReps": 10 },
+            { "name": "Lying Leg Curl", "targetSets": 3, "targetReps": 10 },
+            { "name": "Standing Calf Raise", "targetSets": 4, "targetReps": 12 }
+          ]
+        },
+        {
+          "dayName": "Upper Hypertrophy",
+          "exercises": [
+            { "name": "Incline Dumbbell Bench Press", "targetSets": 3, "targetReps": 12 },
+            { "name": "Seated Cable Row", "targetSets": 3, "targetReps": 12 },
+            { "name": "Dumbbell Lateral Raise", "targetSets": 4, "targetReps": 15 },
+            { "name": "Dumbbell Curl", "targetSets": 3, "targetReps": 12 },
+            { "name": "Rope Triceps Pushdown", "targetSets": 3, "targetReps": 12 },
+            { "name": "Cable Crossover", "targetSets": 3, "targetReps": 15 }
+          ]
+        },
+        {
+          "dayName": "Lower Hypertrophy",
+          "exercises": [
+            { "name": "Front Squat", "targetSets": 3, "targetReps": 12 },
+            { "name": "Romanian Deadlift", "targetSets": 3, "targetReps": 12 },
+            { "name": "Leg Extension", "targetSets": 3, "targetReps": 15 },
+            { "name": "Seated Leg Curl", "targetSets": 3, "targetReps": 15 },
+            { "name": "Seated Calf Raise", "targetSets": 4, "targetReps": 15 },
+            { "name": "Hanging Leg Raise", "targetSets": 3, "targetReps": 15 }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bro Split",
+      "type": "BRO",
+      "days": [
+        {
+          "dayName": "Chest",
+          "exercises": [
+            { "name": "Barbell Bench Press", "targetSets": 4, "targetReps": 8 },
+            { "name": "Incline Barbell Bench Press", "targetSets": 3, "targetReps": 10 },
+            { "name": "Dumbbell Chest Flye", "targetSets": 3, "targetReps": 12 },
+            { "name": "Chest Dip", "targetSets": 3, "targetReps": 12 },
+            { "name": "Cable Crossover", "targetSets": 3, "targetReps": 15 }
+          ]
+        },
+        {
+          "dayName": "Back",
+          "exercises": [
+            { "name": "Conventional Deadlift", "targetSets": 3, "targetReps": 5 },
+            { "name": "Pull-Up", "targetSets": 3, "targetReps": 10 },
+            { "name": "Barbell Bent-Over Row", "targetSets": 3, "targetReps": 10 },
+            { "name": "Seated Cable Row", "targetSets": 3, "targetReps": 12 },
+            { "name": "Straight-Arm Pulldown", "targetSets": 3, "targetReps": 15 }
+          ]
+        },
+        {
+          "dayName": "Shoulders",
+          "exercises": [
+            { "name": "Overhead Press", "targetSets": 4, "targetReps": 8 },
+            { "name": "Dumbbell Lateral Raise", "targetSets": 4, "targetReps": 15 },
+            { "name": "Rear Delt Dumbbell Flye", "targetSets": 3, "targetReps": 15 },
+            { "name": "Face Pull", "targetSets": 3, "targetReps": 15 },
+            { "name": "Barbell Shrug", "targetSets": 3, "targetReps": 12 }
+          ]
+        },
+        {
+          "dayName": "Arms",
+          "exercises": [
+            { "name": "Barbell Curl", "targetSets": 3, "targetReps": 10 },
+            { "name": "Hammer Curl", "targetSets": 3, "targetReps": 12 },
+            { "name": "Preacher Curl", "targetSets": 3, "targetReps": 12 },
+            { "name": "Skull Crusher", "targetSets": 3, "targetReps": 10 },
+            { "name": "Rope Triceps Pushdown", "targetSets": 3, "targetReps": 12 },
+            { "name": "Overhead Dumbbell Triceps Extension", "targetSets": 3, "targetReps": 12 }
+          ]
+        },
+        {
+          "dayName": "Legs",
+          "exercises": [
+            { "name": "Back Squat", "targetSets": 4, "targetReps": 8 },
+            { "name": "Romanian Deadlift", "targetSets": 3, "targetReps": 10 },
+            { "name": "Leg Press", "targetSets": 3, "targetReps": 12 },
+            { "name": "Lying Leg Curl", "targetSets": 3, "targetReps": 12 },
+            { "name": "Standing Calf Raise", "targetSets": 4, "targetReps": 15 },
+            { "name": "Hanging Leg Raise", "targetSets": 3, "targetReps": 15 }
+          ]
+        }
+      ]
+    }
+  ]
+}

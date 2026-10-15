@@ -1,0 +1,1301 @@
+{
+  "version": 1,
+  "exercises": [
+    {
+      "name": "Barbell Bench Press",
+      "primaryMuscle": "CHEST",
+      "secondaryMuscles": [
+        "TRICEPS",
+        "SHOULDERS"
+      ],
+      "equipment": "BARBELL",
+      "instructions": "Lie flat on a bench and grip the bar slightly wider than shoulder width. Lower the bar under control to mid-chest, then press it back up until the arms are fully extended. Keep the shoulder blades retracted and feet planted throughout.",
+      "imagePath": null
+    },
+    {
+      "name": "Incline Barbell Bench Press",
+      "primaryMuscle": "CHEST",
+      "secondaryMuscles": [
+        "SHOULDERS",
+        "TRICEPS"
+      ],
+      "equipment": "BARBELL",
+      "instructions": "Set the bench to a 30-45 degree incline and grip the bar just wider than shoulder width. Lower the bar to the upper chest, then drive it back up to lockout. The incline shifts emphasis toward the upper pecs and front delts.",
+      "imagePath": null
+    },
+    {
+      "name": "Decline Barbell Bench Press",
+      "primaryMuscle": "CHEST",
+      "secondaryMuscles": [
+        "TRICEPS"
+      ],
+      "equipment": "BARBELL",
+      "instructions": "Secure your legs on a decline bench and unrack the bar over the lower chest. Lower it to the lower pec line, then press back to full extension. The decline angle biases the lower chest fibres.",
+      "imagePath": null
+    },
+    {
+      "name": "Flat Dumbbell Bench Press",
+      "primaryMuscle": "CHEST",
+      "secondaryMuscles": [
+        "TRICEPS",
+        "SHOULDERS"
+      ],
+      "equipment": "DUMBBELL",
+      "instructions": "Lie flat holding a dumbbell in each hand at chest level. Press the dumbbells up until they nearly touch overhead, then lower under control to a deep stretch. Dumbbells allow a greater range of motion than the barbell.",
+      "imagePath": null
+    },
+    {
+      "name": "Incline Dumbbell Bench Press",
+      "primaryMuscle": "CHEST",
+      "secondaryMuscles": [
+        "SHOULDERS",
+        "TRICEPS"
+      ],
+      "equipment": "DUMBBELL",
+      "instructions": "On a 30-45 degree incline, press two dumbbells from the upper-chest position to lockout. Lower them slowly for a full stretch on the upper pecs. Keep the elbows tucked around 45 degrees to protect the shoulders.",
+      "imagePath": null
+    },
+    {
+      "name": "Dumbbell Chest Flye",
+      "primaryMuscle": "CHEST",
+      "secondaryMuscles": [
+        "SHOULDERS"
+      ],
+      "equipment": "DUMBBELL",
+      "instructions": "Lie flat holding dumbbells above the chest with a slight elbow bend. Open the arms in a wide arc until you feel a stretch across the chest, then squeeze them back together. Keep the elbow angle fixed to isolate the pecs.",
+      "imagePath": null
+    },
+    {
+      "name": "Incline Dumbbell Flye",
+      "primaryMuscle": "CHEST",
+      "secondaryMuscles": [
+        "SHOULDERS"
+      ],
+      "equipment": "DUMBBELL",
+      "instructions": "On an inclined bench, open two dumbbells in a wide arc with a soft elbow bend. Feel the stretch across the upper chest, then bring them together above you. Move slowly to keep tension on the pecs rather than the joints.",
+      "imagePath": null
+    },
+    {
+      "name": "Cable Crossover",
+      "primaryMuscle": "CHEST",
+      "secondaryMuscles": [
+        "SHOULDERS"
+      ],
+      "equipment": "CABLE",
+      "instructions": "Set both pulleys high and grasp a handle in each hand. Step forward and bring the handles down and together in front of the hips, squeezing the chest. Return under control, keeping a constant slight bend in the elbows.",
+      "imagePath": null
+    },
+    {
+      "name": "Pec Deck Machine",
+      "primaryMuscle": "CHEST",
+      "secondaryMuscles": [],
+      "equipment": "MACHINE",
+      "instructions": "Sit with your back flat against the pad and forearms on the pads or hands on the handles. Bring the arms together in front of the chest, squeezing the pecs, then return slowly to a stretch. Keep the movement smooth and controlled.",
+      "imagePath": null
+    },
+    {
+      "name": "Machine Chest Press",
+      "primaryMuscle": "CHEST",
+      "secondaryMuscles": [
+        "TRICEPS",
+        "SHOULDERS"
+      ],
+      "equipment": "MACHINE",
+      "instructions": "Sit with the handles level with the mid-chest and back against the pad. Press the handles forward to full extension, then return under control. The fixed path makes this a safe option for high-rep chest volume.",
+      "imagePath": null
+    },
+    {
+      "name": "Push-Up",
+      "primaryMuscle": "CHEST",
+      "secondaryMuscles": [
+        "TRICEPS",
+        "SHOULDERS",
+        "ABS"
+      ],
+      "equipment": "BODYWEIGHT",
+      "instructions": "Start in a plank with hands slightly wider than the shoulders. Lower the chest to just above the floor, keeping the body in a straight line, then press back up. Brace the core to stop the hips from sagging.",
+      "imagePath": null
+    },
+    {
+      "name": "Chest Dip",
+      "primaryMuscle": "CHEST",
+      "secondaryMuscles": [
+        "TRICEPS",
+        "SHOULDERS"
+      ],
+      "equipment": "BODYWEIGHT",
+      "instructions": "Support yourself on parallel bars and lean the torso forward. Lower until you feel a stretch across the chest, then press back up. The forward lean shifts emphasis from the triceps onto the lower chest.",
+      "imagePath": null
+    },
+    {
+      "name": "Incline Push-Up",
+      "primaryMuscle": "CHEST",
+      "secondaryMuscles": [
+        "TRICEPS",
+        "SHOULDERS"
+      ],
+      "equipment": "BODYWEIGHT",
+      "instructions": "Place your hands on a bench or box with the body in a straight line. Lower the chest toward the surface, then press back up. Raising the hands reduces the load, making this a good regression for standard push-ups.",
+      "imagePath": null
+    },
+    {
+      "name": "Smith Machine Bench Press",
+      "primaryMuscle": "CHEST",
+      "secondaryMuscles": [
+        "TRICEPS",
+        "SHOULDERS"
+      ],
+      "equipment": "MACHINE",
+      "instructions": "Lie on a bench under the Smith bar and unrack it over the mid-chest. Lower the bar to the chest along the fixed track, then press to lockout. The guided path lets you push closer to failure without a spotter.",
+      "imagePath": null
+    },
+    {
+      "name": "Conventional Deadlift",
+      "primaryMuscle": "BACK",
+      "secondaryMuscles": [
+        "HAMSTRINGS",
+        "GLUTES",
+        "TRAPS",
+        "FOREARMS",
+        "QUADS"
+      ],
+      "equipment": "BARBELL",
+      "instructions": "Stand with mid-foot under the bar and grip just outside the knees. Brace, keep a flat back, and drive through the floor to stand tall, locking the hips at the top. Lower the bar under control along the same path.",
+      "imagePath": null
+    },
+    {
+      "name": "Barbell Bent-Over Row",
+      "primaryMuscle": "BACK",
+      "secondaryMuscles": [
+        "BICEPS",
+        "TRAPS",
+        "FOREARMS"
+      ],
+      "equipment": "BARBELL",
+      "instructions": "Hinge at the hips until the torso is around 45 degrees, holding the bar with an overhand grip. Pull the bar to the lower ribs, squeezing the shoulder blades, then lower under control. Keep the spine neutral throughout.",
+      "imagePath": null
+    },
+    {
+      "name": "Pendlay Row",
+      "primaryMuscle": "BACK",
+      "secondaryMuscles": [
+        "BICEPS",
+        "TRAPS"
+      ],
+      "equipment": "BARBELL",
+      "instructions": "With the torso parallel to the floor, grip the bar and explosively row it to the lower chest. Return the bar to the floor and reset before each rep. The dead stop builds strong, powerful upper-back contractions.",
+      "imagePath": null
+    },
+    {
+      "name": "T-Bar Row",
+      "primaryMuscle": "BACK",
+      "secondaryMuscles": [
+        "BICEPS",
+        "TRAPS",
+        "FOREARMS"
+      ],
+      "equipment": "BARBELL",
+      "instructions": "Straddle the bar and grip the handles with a neutral grip. Hinge forward and row the weight to the torso, driving the elbows back and squeezing the mid-back. Lower under control to a full stretch.",
+      "imagePath": null
+    },
+    {
+      "name": "One-Arm Dumbbell Row",
+      "primaryMuscle": "BACK",
+      "secondaryMuscles": [
+        "BICEPS",
+        "TRAPS",
+        "FOREARMS"
+      ],
+      "equipment": "DUMBBELL",
+      "instructions": "Brace one hand and knee on a bench with a dumbbell in the free hand. Row the dumbbell to the hip, keeping the elbow close and squeezing the lat. Lower to a full stretch and repeat before switching sides.",
+      "imagePath": null
+    },
+    {
+      "name": "Seated Cable Row",
+      "primaryMuscle": "BACK",
+      "secondaryMuscles": [
+        "BICEPS",
+        "TRAPS",
+        "FOREARMS"
+      ],
+      "equipment": "CABLE",
+      "instructions": "Sit with feet braced and a slight forward lean, holding the handle. Pull the handle to the abdomen, driving the elbows back and squeezing the shoulder blades. Return under control, allowing a full stretch of the lats.",
+      "imagePath": null
+    },
+    {
+      "name": "Lat Pulldown",
+      "primaryMuscle": "BACK",
+      "secondaryMuscles": [
+        "BICEPS",
+        "FOREARMS"
+      ],
+      "equipment": "CABLE",
+      "instructions": "Grip the bar wider than shoulder width and sit with the thighs pinned. Pull the bar to the upper chest, driving the elbows down and back, then return slowly to a full stretch. Avoid leaning back excessively.",
+      "imagePath": null
+    },
+    {
+      "name": "Close-Grip Lat Pulldown",
+      "primaryMuscle": "BACK",
+      "secondaryMuscles": [
+        "BICEPS",
+        "FOREARMS"
+      ],
+      "equipment": "CABLE",
+      "instructions": "Use a narrow neutral or V-grip attachment and sit with thighs secured. Pull the handle to the chest, keeping the elbows close to the body. The tighter grip increases lat involvement and range of motion.",
+      "imagePath": null
+    },
+    {
+      "name": "Pull-Up",
+      "primaryMuscle": "BACK",
+      "secondaryMuscles": [
+        "BICEPS",
+        "FOREARMS"
+      ],
+      "equipment": "BODYWEIGHT",
+      "instructions": "Hang from a bar with an overhand grip wider than the shoulders. Pull yourself up until the chin clears the bar, driving the elbows down. Lower under control to a full dead hang before the next rep.",
+      "imagePath": null
+    },
+    {
+      "name": "Chin-Up",
+      "primaryMuscle": "BACK",
+      "secondaryMuscles": [
+        "BICEPS",
+        "FOREARMS"
+      ],
+      "equipment": "BODYWEIGHT",
+      "instructions": "Hang from a bar with an underhand, shoulder-width grip. Pull up until the chin passes the bar, squeezing the lats and biceps. Lower slowly to full extension. The supinated grip adds extra biceps emphasis.",
+      "imagePath": null
+    },
+    {
+      "name": "Inverted Row",
+      "primaryMuscle": "BACK",
+      "secondaryMuscles": [
+        "BICEPS",
+        "TRAPS"
+      ],
+      "equipment": "BODYWEIGHT",
+      "instructions": "Set a bar at hip height and hang beneath it with a straight body. Pull the chest to the bar, squeezing the shoulder blades, then lower under control. Raise or lower the feet to adjust difficulty.",
+      "imagePath": null
+    },
+    {
+      "name": "Machine Row",
+      "primaryMuscle": "BACK",
+      "secondaryMuscles": [
+        "BICEPS",
+        "TRAPS"
+      ],
+      "equipment": "MACHINE",
+      "instructions": "Sit with the chest against the pad and grip the handles. Row the handles back, driving the elbows past the torso and squeezing the mid-back. Return under control along the fixed path.",
+      "imagePath": null
+    },
+    {
+      "name": "Straight-Arm Pulldown",
+      "primaryMuscle": "BACK",
+      "secondaryMuscles": [
+        "TRICEPS"
+      ],
+      "equipment": "CABLE",
+      "instructions": "Stand facing a high pulley with a straight bar and arms nearly locked. Pull the bar down to the thighs in a sweeping arc, keeping the elbows fixed. This isolates the lats without much biceps involvement.",
+      "imagePath": null
+    },
+    {
+      "name": "Rack Pull",
+      "primaryMuscle": "BACK",
+      "secondaryMuscles": [
+        "TRAPS",
+        "GLUTES",
+        "HAMSTRINGS",
+        "FOREARMS"
+      ],
+      "equipment": "BARBELL",
+      "instructions": "Set the bar on pins at around knee height and grip it just outside the knees. Brace and drive the hips forward to lock out standing tall. The shortened range lets you overload the upper back and traps.",
+      "imagePath": null
+    },
+    {
+      "name": "Meadows Row",
+      "primaryMuscle": "BACK",
+      "secondaryMuscles": [
+        "BICEPS",
+        "TRAPS",
+        "FOREARMS"
+      ],
+      "equipment": "BARBELL",
+      "instructions": "Stand perpendicular to a landmine bar and grip the sleeve with one hand. Hinge over and row the end of the bar to the hip, then lower for a deep stretch. The angle hits the lats hard through a long range.",
+      "imagePath": null
+    },
+    {
+      "name": "Wide-Grip Lat Pulldown",
+      "primaryMuscle": "BACK",
+      "secondaryMuscles": [
+        "BICEPS",
+        "FOREARMS"
+      ],
+      "equipment": "CABLE",
+      "instructions": "Take a wide overhand grip on the bar and sit with the thighs secured. Pull the bar to the collarbone, flaring the elbows out and down. The wide grip emphasises the upper and outer lats for back width.",
+      "imagePath": null
+    },
+    {
+      "name": "Overhead Press",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": [
+        "TRICEPS",
+        "TRAPS"
+      ],
+      "equipment": "BARBELL",
+      "instructions": "Stand with the bar racked at the front of the shoulders and grip just outside shoulder width. Brace and press the bar overhead to lockout, moving the head slightly back then forward under the bar. Lower under control to the collarbone.",
+      "imagePath": null
+    },
+    {
+      "name": "Seated Dumbbell Shoulder Press",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": [
+        "TRICEPS",
+        "TRAPS"
+      ],
+      "equipment": "DUMBBELL",
+      "instructions": "Sit upright with dumbbells at shoulder height and palms facing forward. Press the weights overhead until the arms are extended, then lower to ear level. Keep the core braced and avoid arching the lower back.",
+      "imagePath": null
+    },
+    {
+      "name": "Arnold Press",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": [
+        "TRICEPS",
+        "TRAPS"
+      ],
+      "equipment": "DUMBBELL",
+      "instructions": "Start seated with dumbbells in front of the shoulders, palms facing you. Rotate the palms outward as you press overhead, then reverse the motion on the way down. The rotation recruits all three deltoid heads.",
+      "imagePath": null
+    },
+    {
+      "name": "Dumbbell Lateral Raise",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": [
+        "TRAPS"
+      ],
+      "equipment": "DUMBBELL",
+      "instructions": "Stand holding dumbbells at your sides with a slight elbow bend. Raise the arms out to the sides until they reach shoulder height, leading with the elbows. Lower slowly to keep constant tension on the side delts.",
+      "imagePath": null
+    },
+    {
+      "name": "Cable Lateral Raise",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": [
+        "TRAPS"
+      ],
+      "equipment": "CABLE",
+      "instructions": "Stand side-on to a low pulley and grip the handle across the body. Raise the arm out to shoulder height, keeping a slight elbow bend. The cable keeps tension on the side delt through the full range.",
+      "imagePath": null
+    },
+    {
+      "name": "Machine Lateral Raise",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": [],
+      "equipment": "MACHINE",
+      "instructions": "Sit with the pads against the outer arms and grip the handles. Raise the arms out to the sides against the resistance, then lower under control. The fixed path makes it easy to isolate the side delts.",
+      "imagePath": null
+    },
+    {
+      "name": "Dumbbell Front Raise",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": [],
+      "equipment": "DUMBBELL",
+      "instructions": "Hold dumbbells in front of the thighs with palms facing you. Raise one or both arms straight out to shoulder height, then lower under control. Avoid swinging; keep the movement slow to target the front delts.",
+      "imagePath": null
+    },
+    {
+      "name": "Rear Delt Dumbbell Flye",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": [
+        "BACK",
+        "TRAPS"
+      ],
+      "equipment": "DUMBBELL",
+      "instructions": "Hinge forward with dumbbells hanging beneath the chest and a slight elbow bend. Raise the arms out to the sides, squeezing the rear delts and upper back. Lower under control without using momentum.",
+      "imagePath": null
+    },
+    {
+      "name": "Reverse Pec Deck",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": [
+        "BACK",
+        "TRAPS"
+      ],
+      "equipment": "MACHINE",
+      "instructions": "Sit facing the pec deck pad and grip the handles with arms extended forward. Sweep the arms out and back in a wide arc, squeezing the rear delts. Return under control to keep tension on the target muscle.",
+      "imagePath": null
+    },
+    {
+      "name": "Face Pull",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": [
+        "BACK",
+        "TRAPS"
+      ],
+      "equipment": "CABLE",
+      "instructions": "Set a rope at head height and pull it toward the face, splitting the ends apart. Drive the elbows high and back, squeezing the rear delts and upper back. Return under control. Great for shoulder health and posture.",
+      "imagePath": null
+    },
+    {
+      "name": "Barbell Upright Row",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": [
+        "TRAPS",
+        "BICEPS"
+      ],
+      "equipment": "BARBELL",
+      "instructions": "Hold the bar with a shoulder-width grip in front of the thighs. Pull it up along the body to chest height, leading with the elbows. Lower under control. Keep the range comfortable to protect the shoulders.",
+      "imagePath": null
+    },
+    {
+      "name": "Landmine Press",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": [
+        "TRICEPS",
+        "CHEST"
+      ],
+      "equipment": "BARBELL",
+      "instructions": "Hold the end of a landmine bar at shoulder height in one hand. Press the bar up and slightly forward to extension, then lower under control. The angled path is joint-friendly and builds the front delts.",
+      "imagePath": null
+    },
+    {
+      "name": "Barbell Curl",
+      "primaryMuscle": "BICEPS",
+      "secondaryMuscles": [
+        "FOREARMS"
+      ],
+      "equipment": "BARBELL",
+      "instructions": "Stand holding the bar with a shoulder-width underhand grip. Curl the bar up by flexing the elbows, keeping them pinned to the sides. Lower under control to full extension without swinging the torso.",
+      "imagePath": null
+    },
+    {
+      "name": "EZ-Bar Curl",
+      "primaryMuscle": "BICEPS",
+      "secondaryMuscles": [
+        "FOREARMS"
+      ],
+      "equipment": "BARBELL",
+      "instructions": "Grip the angled portions of an EZ-bar with an underhand grip. Curl the bar up while keeping the elbows fixed, then lower under control. The cambered bar is easier on the wrists than a straight bar.",
+      "imagePath": null
+    },
+    {
+      "name": "Dumbbell Curl",
+      "primaryMuscle": "BICEPS",
+      "secondaryMuscles": [
+        "FOREARMS"
+      ],
+      "equipment": "DUMBBELL",
+      "instructions": "Stand holding dumbbells at your sides with palms forward. Curl the weights up while keeping the elbows still, squeezing at the top. Lower slowly to full extension. Alternate arms or curl both together.",
+      "imagePath": null
+    },
+    {
+      "name": "Hammer Curl",
+      "primaryMuscle": "BICEPS",
+      "secondaryMuscles": [
+        "FOREARMS"
+      ],
+      "equipment": "DUMBBELL",
+      "instructions": "Hold dumbbells with a neutral grip, palms facing each other. Curl the weights up while keeping the wrists neutral, then lower under control. This grip emphasises the brachialis and forearm.",
+      "imagePath": null
+    },
+    {
+      "name": "Incline Dumbbell Curl",
+      "primaryMuscle": "BICEPS",
+      "secondaryMuscles": [
+        "FOREARMS"
+      ],
+      "equipment": "DUMBBELL",
+      "instructions": "Sit back on an incline bench with the arms hanging straight down. Curl the dumbbells up while keeping the upper arms back, then lower to a full stretch. The incline places extra stretch on the long head.",
+      "imagePath": null
+    },
+    {
+      "name": "Preacher Curl",
+      "primaryMuscle": "BICEPS",
+      "secondaryMuscles": [
+        "FOREARMS"
+      ],
+      "equipment": "BARBELL",
+      "instructions": "Rest the upper arms on a preacher pad and grip the bar underhand. Curl the weight up, then lower slowly until the arms are nearly straight. The pad prevents cheating and isolates the biceps.",
+      "imagePath": null
+    },
+    {
+      "name": "Concentration Curl",
+      "primaryMuscle": "BICEPS",
+      "secondaryMuscles": [
+        "FOREARMS"
+      ],
+      "equipment": "DUMBBELL",
+      "instructions": "Sit and brace the working elbow against the inner thigh with a dumbbell in hand. Curl the weight up, squeezing hard at the top, then lower slowly. The braced position removes momentum for a strong peak contraction.",
+      "imagePath": null
+    },
+    {
+      "name": "Cable Curl",
+      "primaryMuscle": "BICEPS",
+      "secondaryMuscles": [
+        "FOREARMS"
+      ],
+      "equipment": "CABLE",
+      "instructions": "Attach a bar to a low pulley and grip it underhand. Curl the bar up, keeping the elbows fixed at your sides, then lower under control. The cable keeps constant tension throughout the range.",
+      "imagePath": null
+    },
+    {
+      "name": "Spider Curl",
+      "primaryMuscle": "BICEPS",
+      "secondaryMuscles": [
+        "FOREARMS"
+      ],
+      "equipment": "DUMBBELL",
+      "instructions": "Lie chest-down on an incline bench with the arms hanging straight down. Curl the dumbbells up while keeping the upper arms vertical, then lower slowly. The angle maximises tension on the short head.",
+      "imagePath": null
+    },
+    {
+      "name": "Close-Grip Bench Press",
+      "primaryMuscle": "TRICEPS",
+      "secondaryMuscles": [
+        "CHEST",
+        "SHOULDERS"
+      ],
+      "equipment": "BARBELL",
+      "instructions": "Lie on a flat bench and grip the bar around shoulder width. Lower the bar to the lower chest with the elbows tucked, then press back to lockout. The narrow grip shifts emphasis onto the triceps.",
+      "imagePath": null
+    },
+    {
+      "name": "Triceps Pushdown",
+      "primaryMuscle": "TRICEPS",
+      "secondaryMuscles": [],
+      "equipment": "CABLE",
+      "instructions": "Face a high pulley with a straight bar and elbows pinned to the sides. Push the bar down until the arms are fully extended, then return under control. Keep the upper arms still to isolate the triceps.",
+      "imagePath": null
+    },
+    {
+      "name": "Rope Triceps Pushdown",
+      "primaryMuscle": "TRICEPS",
+      "secondaryMuscles": [],
+      "equipment": "CABLE",
+      "instructions": "Attach a rope to a high pulley and grip both ends. Push down and spread the rope apart at the bottom, fully extending the elbows. Return slowly. The spread increases the peak contraction on the triceps.",
+      "imagePath": null
+    },
+    {
+      "name": "Overhead Dumbbell Triceps Extension",
+      "primaryMuscle": "TRICEPS",
+      "secondaryMuscles": [],
+      "equipment": "DUMBBELL",
+      "instructions": "Hold a single dumbbell overhead with both hands. Lower it behind the head by bending the elbows, then extend back to lockout. Keep the upper arms vertical to stretch and load the long head of the triceps.",
+      "imagePath": null
+    },
+    {
+      "name": "Skull Crusher",
+      "primaryMuscle": "TRICEPS",
+      "secondaryMuscles": [],
+      "equipment": "BARBELL",
+      "instructions": "Lie on a bench holding an EZ-bar over the chest. Lower the bar toward the forehead by bending the elbows, then extend back up. Keep the upper arms fixed to isolate the triceps.",
+      "imagePath": null
+    },
+    {
+      "name": "Triceps Dip",
+      "primaryMuscle": "TRICEPS",
+      "secondaryMuscles": [
+        "CHEST",
+        "SHOULDERS"
+      ],
+      "equipment": "BODYWEIGHT",
+      "instructions": "Support yourself on parallel bars with the torso upright. Lower until the elbows reach about 90 degrees, then press back to lockout. Staying upright keeps the focus on the triceps rather than the chest.",
+      "imagePath": null
+    },
+    {
+      "name": "Dumbbell Triceps Kickback",
+      "primaryMuscle": "TRICEPS",
+      "secondaryMuscles": [],
+      "equipment": "DUMBBELL",
+      "instructions": "Hinge forward with the upper arm parallel to the torso and elbow bent. Extend the forearm back until the arm is straight, squeezing the triceps. Lower under control without dropping the elbow.",
+      "imagePath": null
+    },
+    {
+      "name": "Bench Dip",
+      "primaryMuscle": "TRICEPS",
+      "secondaryMuscles": [
+        "CHEST",
+        "SHOULDERS"
+      ],
+      "equipment": "BODYWEIGHT",
+      "instructions": "Place the hands on a bench behind you with the legs extended forward. Lower the body by bending the elbows, then press back up. Elevate the feet to increase the difficulty.",
+      "imagePath": null
+    },
+    {
+      "name": "Cable Overhead Triceps Extension",
+      "primaryMuscle": "TRICEPS",
+      "secondaryMuscles": [],
+      "equipment": "CABLE",
+      "instructions": "Face away from a pulley with a rope held overhead and elbows bent. Extend the arms forward and up to lockout, then return under control. The cable keeps constant tension on the long head.",
+      "imagePath": null
+    },
+    {
+      "name": "Back Squat",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": [
+        "GLUTES",
+        "HAMSTRINGS",
+        "ABS"
+      ],
+      "equipment": "BARBELL",
+      "instructions": "Rest the bar across the upper back and stand with feet shoulder-width. Brace and descend until the hips drop below the knees, keeping the chest up. Drive through the whole foot to stand back up.",
+      "imagePath": null
+    },
+    {
+      "name": "Front Squat",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": [
+        "GLUTES",
+        "ABS"
+      ],
+      "equipment": "BARBELL",
+      "instructions": "Rest the bar across the front delts with the elbows high. Squat down while keeping the torso upright, then drive back up. The front-loaded position emphasises the quads and demands strong core bracing.",
+      "imagePath": null
+    },
+    {
+      "name": "Hack Squat",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": [
+        "GLUTES"
+      ],
+      "equipment": "MACHINE",
+      "instructions": "Position the shoulders under the pads with feet on the platform. Lower until the knees reach about 90 degrees, then press back up. The machine supports the back so you can overload the quads safely.",
+      "imagePath": null
+    },
+    {
+      "name": "Leg Press",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": [
+        "GLUTES",
+        "HAMSTRINGS"
+      ],
+      "equipment": "MACHINE",
+      "instructions": "Sit in the machine with feet shoulder-width on the platform. Lower the sled by bending the knees toward the chest, then press back without locking the knees. Keep the lower back flat against the pad.",
+      "imagePath": null
+    },
+    {
+      "name": "Bulgarian Split Squat",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": [
+        "GLUTES",
+        "HAMSTRINGS"
+      ],
+      "equipment": "DUMBBELL",
+      "instructions": "Rest the rear foot on a bench and hold dumbbells at your sides. Lower straight down until the front thigh is parallel, then drive back up. Keep the front shin fairly vertical for a quad focus.",
+      "imagePath": null
+    },
+    {
+      "name": "Walking Lunge",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": [
+        "GLUTES",
+        "HAMSTRINGS"
+      ],
+      "equipment": "DUMBBELL",
+      "instructions": "Hold dumbbells and step forward into a lunge until both knees reach 90 degrees. Push off the front foot to bring the back leg through into the next lunge. Keep the torso upright throughout.",
+      "imagePath": null
+    },
+    {
+      "name": "Goblet Squat",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": [
+        "GLUTES",
+        "ABS"
+      ],
+      "equipment": "DUMBBELL",
+      "instructions": "Hold a single dumbbell against the chest with both hands. Squat down between the knees while keeping the chest tall, then stand back up. A great teaching movement for squat depth and position.",
+      "imagePath": null
+    },
+    {
+      "name": "Leg Extension",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": [],
+      "equipment": "MACHINE",
+      "instructions": "Sit with the shins behind the pad and knees at the pivot point. Extend the legs to full lockout, squeezing the quads, then lower under control. This isolates the quads with no other muscle involvement.",
+      "imagePath": null
+    },
+    {
+      "name": "Dumbbell Step-Up",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": [
+        "GLUTES",
+        "HAMSTRINGS"
+      ],
+      "equipment": "DUMBBELL",
+      "instructions": "Hold dumbbells and place one foot on a knee-height box. Drive through the top foot to stand up on the box, then lower under control. Keep the weight in the working leg rather than pushing off the floor.",
+      "imagePath": null
+    },
+    {
+      "name": "Smith Machine Squat",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": [
+        "GLUTES",
+        "HAMSTRINGS"
+      ],
+      "equipment": "MACHINE",
+      "instructions": "Position the bar across the upper back within the Smith rack. Squat down along the fixed track until the thighs are parallel, then drive back up. The guided path allows a stable, quad-focused stance.",
+      "imagePath": null
+    },
+    {
+      "name": "Sissy Squat",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": [],
+      "equipment": "BODYWEIGHT",
+      "instructions": "Hold a support and rise onto the balls of the feet. Lean back and bend the knees forward, lowering the torso in a straight line, then return. This places an intense stretch and load on the quads.",
+      "imagePath": null
+    },
+    {
+      "name": "Romanian Deadlift",
+      "primaryMuscle": "HAMSTRINGS",
+      "secondaryMuscles": [
+        "GLUTES",
+        "BACK",
+        "FOREARMS"
+      ],
+      "equipment": "BARBELL",
+      "instructions": "Hold the bar at the hips with a slight knee bend. Push the hips back and lower the bar down the legs until you feel a hamstring stretch, then drive the hips forward to stand. Keep the back flat and bar close.",
+      "imagePath": null
+    },
+    {
+      "name": "Stiff-Leg Deadlift",
+      "primaryMuscle": "HAMSTRINGS",
+      "secondaryMuscles": [
+        "GLUTES",
+        "BACK"
+      ],
+      "equipment": "BARBELL",
+      "instructions": "With nearly straight legs, hinge at the hips and lower the bar toward the floor. Feel the stretch in the hamstrings, then return to standing by driving the hips forward. Keep the spine neutral throughout.",
+      "imagePath": null
+    },
+    {
+      "name": "Lying Leg Curl",
+      "primaryMuscle": "HAMSTRINGS",
+      "secondaryMuscles": [
+        "CALVES"
+      ],
+      "equipment": "MACHINE",
+      "instructions": "Lie face down with the pad behind the ankles. Curl the heels toward the glutes, squeezing the hamstrings, then lower under control. Keep the hips pressed into the bench throughout.",
+      "imagePath": null
+    },
+    {
+      "name": "Seated Leg Curl",
+      "primaryMuscle": "HAMSTRINGS",
+      "secondaryMuscles": [
+        "CALVES"
+      ],
+      "equipment": "MACHINE",
+      "instructions": "Sit with the legs extended and the pad on top of the shins. Curl the legs down and back, squeezing the hamstrings, then return under control. The seated position stretches the hamstrings under load.",
+      "imagePath": null
+    },
+    {
+      "name": "Good Morning",
+      "primaryMuscle": "HAMSTRINGS",
+      "secondaryMuscles": [
+        "GLUTES",
+        "BACK"
+      ],
+      "equipment": "BARBELL",
+      "instructions": "Rest the bar across the upper back with a slight knee bend. Hinge at the hips to lower the torso toward parallel, then drive the hips forward to stand. Keep the spine neutral and move under control.",
+      "imagePath": null
+    },
+    {
+      "name": "Nordic Hamstring Curl",
+      "primaryMuscle": "HAMSTRINGS",
+      "secondaryMuscles": [
+        "GLUTES"
+      ],
+      "equipment": "BODYWEIGHT",
+      "instructions": "Kneel with the ankles anchored and the body upright. Lower the torso toward the floor as slowly as possible using the hamstrings, then push back up. An intense eccentric exercise for hamstring strength.",
+      "imagePath": null
+    },
+    {
+      "name": "Glute-Ham Raise",
+      "primaryMuscle": "HAMSTRINGS",
+      "secondaryMuscles": [
+        "GLUTES",
+        "CALVES"
+      ],
+      "equipment": "MACHINE",
+      "instructions": "Secure the feet and rest the thighs on the pad. Lower the torso forward, then curl back up using the hamstrings and glutes. Keep the movement controlled through the full range.",
+      "imagePath": null
+    },
+    {
+      "name": "Single-Leg Romanian Deadlift",
+      "primaryMuscle": "HAMSTRINGS",
+      "secondaryMuscles": [
+        "GLUTES",
+        "BACK"
+      ],
+      "equipment": "DUMBBELL",
+      "instructions": "Balance on one leg holding a dumbbell in the opposite hand. Hinge at the hip, lowering the weight while the free leg extends behind, then return to standing. Move slowly to challenge balance and the hamstrings.",
+      "imagePath": null
+    },
+    {
+      "name": "Barbell Hip Thrust",
+      "primaryMuscle": "GLUTES",
+      "secondaryMuscles": [
+        "HAMSTRINGS",
+        "QUADS"
+      ],
+      "equipment": "BARBELL",
+      "instructions": "Sit with the upper back on a bench and a barbell over the hips. Drive through the heels to lift the hips until the torso is parallel to the floor, squeezing the glutes. Lower under control and repeat.",
+      "imagePath": null
+    },
+    {
+      "name": "Barbell Glute Bridge",
+      "primaryMuscle": "GLUTES",
+      "secondaryMuscles": [
+        "HAMSTRINGS"
+      ],
+      "equipment": "BARBELL",
+      "instructions": "Lie on the floor with a barbell over the hips and knees bent. Drive the hips up until the body forms a straight line, squeezing the glutes hard. Lower under control. A floor-based variation of the hip thrust.",
+      "imagePath": null
+    },
+    {
+      "name": "Cable Glute Kickback",
+      "primaryMuscle": "GLUTES",
+      "secondaryMuscles": [
+        "HAMSTRINGS"
+      ],
+      "equipment": "CABLE",
+      "instructions": "Attach an ankle strap to a low pulley and face the machine. Kick the working leg back and up, squeezing the glute, then return under control. Keep the torso stable and avoid arching the lower back.",
+      "imagePath": null
+    },
+    {
+      "name": "Sumo Deadlift",
+      "primaryMuscle": "GLUTES",
+      "secondaryMuscles": [
+        "HAMSTRINGS",
+        "QUADS",
+        "BACK",
+        "TRAPS",
+        "FOREARMS"
+      ],
+      "equipment": "BARBELL",
+      "instructions": "Take a wide stance with the toes flared and grip the bar inside the knees. Brace, push the knees out, and drive through the floor to stand tall. The wide stance shifts emphasis onto the glutes and inner thighs.",
+      "imagePath": null
+    },
+    {
+      "name": "Cable Pull-Through",
+      "primaryMuscle": "GLUTES",
+      "secondaryMuscles": [
+        "HAMSTRINGS",
+        "BACK"
+      ],
+      "equipment": "CABLE",
+      "instructions": "Face away from a low pulley with a rope passed between the legs. Hinge at the hips to let the rope travel back, then drive the hips forward to stand, squeezing the glutes. Keep the arms relaxed throughout.",
+      "imagePath": null
+    },
+    {
+      "name": "Hip Abduction Machine",
+      "primaryMuscle": "GLUTES",
+      "secondaryMuscles": [],
+      "equipment": "MACHINE",
+      "instructions": "Sit with the outer thighs against the pads. Push the knees apart against the resistance, squeezing the glutes, then return under control. Lean forward slightly to bias the upper glutes.",
+      "imagePath": null
+    },
+    {
+      "name": "Curtsy Lunge",
+      "primaryMuscle": "GLUTES",
+      "secondaryMuscles": [
+        "QUADS",
+        "HAMSTRINGS"
+      ],
+      "equipment": "DUMBBELL",
+      "instructions": "Hold dumbbells and step one leg diagonally behind the other into a curtsy. Lower until the front thigh is near parallel, then return to standing. The crossover angle targets the glute medius.",
+      "imagePath": null
+    },
+    {
+      "name": "Standing Calf Raise",
+      "primaryMuscle": "CALVES",
+      "secondaryMuscles": [],
+      "equipment": "MACHINE",
+      "instructions": "Stand with the balls of the feet on the platform and shoulders under the pads. Rise onto the toes as high as possible, then lower to a deep stretch. Pause at both ends for a full range of motion.",
+      "imagePath": null
+    },
+    {
+      "name": "Seated Calf Raise",
+      "primaryMuscle": "CALVES",
+      "secondaryMuscles": [],
+      "equipment": "MACHINE",
+      "instructions": "Sit with the balls of the feet on the platform and pads over the knees. Raise the heels by pushing through the toes, then lower to a stretch. The bent knee emphasises the soleus muscle.",
+      "imagePath": null
+    },
+    {
+      "name": "Leg Press Calf Raise",
+      "primaryMuscle": "CALVES",
+      "secondaryMuscles": [],
+      "equipment": "MACHINE",
+      "instructions": "Sit in the leg press with the balls of the feet on the bottom edge of the platform. Push through the toes to extend the ankles, then lower to a stretch. Keep the knees only slightly bent throughout.",
+      "imagePath": null
+    },
+    {
+      "name": "Standing Dumbbell Calf Raise",
+      "primaryMuscle": "CALVES",
+      "secondaryMuscles": [],
+      "equipment": "DUMBBELL",
+      "instructions": "Stand on a step holding dumbbells with the balls of the feet on the edge. Rise onto the toes, then lower the heels below the step for a stretch. Perform on one or both legs for extra range.",
+      "imagePath": null
+    },
+    {
+      "name": "Donkey Calf Raise",
+      "primaryMuscle": "CALVES",
+      "secondaryMuscles": [],
+      "equipment": "MACHINE",
+      "instructions": "Bend forward at the hips with the balls of the feet on a platform. Raise the heels as high as possible, then lower to a deep stretch. The hip-hinged position places a strong stretch on the calves.",
+      "imagePath": null
+    },
+    {
+      "name": "Hanging Leg Raise",
+      "primaryMuscle": "ABS",
+      "secondaryMuscles": [
+        "FOREARMS"
+      ],
+      "equipment": "BODYWEIGHT",
+      "instructions": "Hang from a bar with the legs straight. Raise the legs to at least hip height by curling the pelvis up, then lower under control. Avoid swinging so the abs do the work.",
+      "imagePath": null
+    },
+    {
+      "name": "Cable Crunch",
+      "primaryMuscle": "ABS",
+      "secondaryMuscles": [],
+      "equipment": "CABLE",
+      "instructions": "Kneel facing a high pulley with a rope held by the head. Crunch down by flexing the spine, bringing the elbows toward the thighs. Return under control, keeping the hips fixed to isolate the abs.",
+      "imagePath": null
+    },
+    {
+      "name": "Plank",
+      "primaryMuscle": "ABS",
+      "secondaryMuscles": [
+        "SHOULDERS"
+      ],
+      "equipment": "BODYWEIGHT",
+      "instructions": "Rest on the forearms and toes with the body in a straight line. Brace the core and glutes and hold the position without letting the hips sag or pike. Breathe steadily throughout the hold.",
+      "imagePath": null
+    },
+    {
+      "name": "Crunch",
+      "primaryMuscle": "ABS",
+      "secondaryMuscles": [],
+      "equipment": "BODYWEIGHT",
+      "instructions": "Lie on your back with knees bent and hands by the head. Curl the shoulders off the floor by flexing the abs, then lower under control. Keep the lower back on the ground and avoid pulling on the neck.",
+      "imagePath": null
+    },
+    {
+      "name": "Bicycle Crunch",
+      "primaryMuscle": "ABS",
+      "secondaryMuscles": [],
+      "equipment": "BODYWEIGHT",
+      "instructions": "Lie on your back and bring one knee toward the chest while rotating the opposite elbow to meet it. Alternate sides in a pedalling motion, keeping the shoulders off the floor. This targets the obliques and rectus abdominis.",
+      "imagePath": null
+    },
+    {
+      "name": "Russian Twist",
+      "primaryMuscle": "ABS",
+      "secondaryMuscles": [],
+      "equipment": "BODYWEIGHT",
+      "instructions": "Sit with the knees bent and torso leaned back, feet lifted or grounded. Rotate the torso side to side, tapping the hands or a weight beside the hips. Keep the movement controlled to work the obliques.",
+      "imagePath": null
+    },
+    {
+      "name": "Ab Wheel Rollout",
+      "primaryMuscle": "ABS",
+      "secondaryMuscles": [
+        "SHOULDERS",
+        "BACK"
+      ],
+      "equipment": "OTHER",
+      "instructions": "Kneel holding an ab wheel beneath the shoulders. Roll the wheel forward, extending the body while bracing hard, then pull back to the start. Keep the hips from sagging to protect the lower back.",
+      "imagePath": null
+    },
+    {
+      "name": "Sit-Up",
+      "primaryMuscle": "ABS",
+      "secondaryMuscles": [],
+      "equipment": "BODYWEIGHT",
+      "instructions": "Lie on your back with knees bent and feet flat. Curl the whole torso up toward the thighs, then lower under control. Move smoothly rather than jerking up with momentum.",
+      "imagePath": null
+    },
+    {
+      "name": "Lying Leg Raise",
+      "primaryMuscle": "ABS",
+      "secondaryMuscles": [],
+      "equipment": "BODYWEIGHT",
+      "instructions": "Lie flat with the legs straight and hands under the hips. Raise the legs to vertical while keeping them straight, then lower slowly without touching the floor. Keep the lower back pressed down throughout.",
+      "imagePath": null
+    },
+    {
+      "name": "Barbell Shrug",
+      "primaryMuscle": "TRAPS",
+      "secondaryMuscles": [
+        "FOREARMS"
+      ],
+      "equipment": "BARBELL",
+      "instructions": "Hold a barbell in front of the thighs with an overhand grip. Elevate the shoulders straight up toward the ears, then lower under control. Avoid rolling the shoulders; move them vertically.",
+      "imagePath": null
+    },
+    {
+      "name": "Dumbbell Shrug",
+      "primaryMuscle": "TRAPS",
+      "secondaryMuscles": [
+        "FOREARMS"
+      ],
+      "equipment": "DUMBBELL",
+      "instructions": "Hold a dumbbell in each hand at your sides. Shrug the shoulders straight up toward the ears, pausing at the top, then lower under control. Keep the arms straight and let the traps do the work.",
+      "imagePath": null
+    },
+    {
+      "name": "Trap Bar Shrug",
+      "primaryMuscle": "TRAPS",
+      "secondaryMuscles": [
+        "FOREARMS"
+      ],
+      "equipment": "BARBELL",
+      "instructions": "Stand inside a trap bar and grip the handles at your sides. Shrug the shoulders straight up, then lower under control. The neutral grip lets you load the traps heavily and comfortably.",
+      "imagePath": null
+    },
+    {
+      "name": "Cable Shrug",
+      "primaryMuscle": "TRAPS",
+      "secondaryMuscles": [
+        "FOREARMS"
+      ],
+      "equipment": "CABLE",
+      "instructions": "Grip a bar attached to a low pulley in front of the thighs. Shrug the shoulders straight up toward the ears, then lower under control. The cable keeps constant tension across the range.",
+      "imagePath": null
+    },
+    {
+      "name": "Power Shrug",
+      "primaryMuscle": "TRAPS",
+      "secondaryMuscles": [
+        "FOREARMS",
+        "BACK"
+      ],
+      "equipment": "BARBELL",
+      "instructions": "Hold a heavy barbell at the hips and dip slightly at the knees. Explosively extend the hips and shrug the bar upward, then lower under control. The momentum lets you overload the traps.",
+      "imagePath": null
+    },
+    {
+      "name": "Barbell Wrist Curl",
+      "primaryMuscle": "FOREARMS",
+      "secondaryMuscles": [],
+      "equipment": "BARBELL",
+      "instructions": "Rest the forearms on the thighs with a barbell held underhand, wrists off the knees. Curl the wrists up by flexing them, then lower to a full stretch. Keep the forearms still throughout.",
+      "imagePath": null
+    },
+    {
+      "name": "Barbell Reverse Wrist Curl",
+      "primaryMuscle": "FOREARMS",
+      "secondaryMuscles": [],
+      "equipment": "BARBELL",
+      "instructions": "Rest the forearms on the thighs holding a barbell overhand. Extend the wrists upward, then lower under control. This targets the wrist extensors on top of the forearm.",
+      "imagePath": null
+    },
+    {
+      "name": "Reverse Barbell Curl",
+      "primaryMuscle": "FOREARMS",
+      "secondaryMuscles": [
+        "BICEPS"
+      ],
+      "equipment": "BARBELL",
+      "instructions": "Hold a barbell with an overhand grip at the thighs. Curl the bar up while keeping the elbows pinned, then lower under control. The pronated grip emphasises the brachioradialis and forearm extensors.",
+      "imagePath": null
+    },
+    {
+      "name": "Farmer's Carry",
+      "primaryMuscle": "FOREARMS",
+      "secondaryMuscles": [
+        "TRAPS",
+        "ABS",
+        "GLUTES"
+      ],
+      "equipment": "DUMBBELL",
+      "instructions": "Hold a heavy dumbbell in each hand at your sides. Walk a set distance with an upright posture and braced core, gripping hard the whole time. Builds grip, trap and core strength simultaneously.",
+      "imagePath": null
+    },
+    {
+      "name": "Wrist Roller",
+      "primaryMuscle": "FOREARMS",
+      "secondaryMuscles": [
+        "SHOULDERS"
+      ],
+      "equipment": "OTHER",
+      "instructions": "Hold a roller with a weight hanging on a cord at arm's length. Roll the weight up by rotating the wrists, then lower it back down. Alternating directions trains both flexors and extensors.",
+      "imagePath": null
+    },
+    {
+      "name": "Dead Hang",
+      "primaryMuscle": "FOREARMS",
+      "secondaryMuscles": [
+        "BACK",
+        "SHOULDERS"
+      ],
+      "equipment": "BODYWEIGHT",
+      "instructions": "Hang from a pull-up bar with a firm overhand grip and relaxed shoulders. Hold the position for time, keeping the grip engaged. Builds grip endurance and decompresses the spine.",
+      "imagePath": null
+    },
+    {
+      "name": "Kettlebell Swing",
+      "primaryMuscle": "GLUTES",
+      "secondaryMuscles": [
+        "HAMSTRINGS",
+        "BACK",
+        "SHOULDERS"
+      ],
+      "equipment": "KETTLEBELL",
+      "instructions": "Hinge at the hips and hike a kettlebell back between the legs. Explosively drive the hips forward to swing the bell to chest height, then let it fall back into the next hinge. Power comes from the hips, not the arms.",
+      "imagePath": null
+    },
+    {
+      "name": "Kettlebell Goblet Squat",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": [
+        "GLUTES",
+        "ABS"
+      ],
+      "equipment": "KETTLEBELL",
+      "instructions": "Hold a kettlebell by the horns against the chest. Squat down between the knees while staying tall, then drive back up. The front load keeps the torso upright and the quads engaged.",
+      "imagePath": null
+    },
+    {
+      "name": "Resistance Band Pull-Apart",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": [
+        "BACK",
+        "TRAPS"
+      ],
+      "equipment": "BAND",
+      "instructions": "Hold a band in front of the chest with arms extended. Pull the band apart until it touches the chest, squeezing the rear delts and upper back. Return under control. A great warm-up for shoulder health.",
+      "imagePath": null
+    },
+    {
+      "name": "Band Face Pull",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": [
+        "BACK",
+        "TRAPS"
+      ],
+      "equipment": "BAND",
+      "instructions": "Anchor a band at head height and pull it toward the face, splitting the ends. Drive the elbows high and back, squeezing the rear delts. Return under control for smooth reps.",
+      "imagePath": null
+    },
+    {
+      "name": "Machine Preacher Curl",
+      "primaryMuscle": "BICEPS",
+      "secondaryMuscles": [
+        "FOREARMS"
+      ],
+      "equipment": "MACHINE",
+      "instructions": "Rest the upper arms on the pad and grip the handles. Curl the handles up, squeezing the biceps, then lower under control. The machine keeps tension constant and removes the need to balance.",
+      "imagePath": null
+    },
+    {
+      "name": "Machine Shoulder Press",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": [
+        "TRICEPS",
+        "TRAPS"
+      ],
+      "equipment": "MACHINE",
+      "instructions": "Sit with the handles at shoulder height and back against the pad. Press the handles overhead to extension, then lower under control. The fixed path is a stable option for building shoulder volume.",
+      "imagePath": null
+    },
+    {
+      "name": "Machine Leg Curl (Standing)",
+      "primaryMuscle": "HAMSTRINGS",
+      "secondaryMuscles": [
+        "CALVES"
+      ],
+      "equipment": "MACHINE",
+      "instructions": "Stand with one thigh against the pad and the ankle behind the roller. Curl the heel toward the glute, squeezing the hamstring, then lower under control. Train one leg at a time for balanced development.",
+      "imagePath": null
+    },
+    {
+      "name": "Dumbbell Pullover",
+      "primaryMuscle": "CHEST",
+      "secondaryMuscles": [
+        "BACK",
+        "TRICEPS"
+      ],
+      "equipment": "DUMBBELL",
+      "instructions": "Lie across a bench holding one dumbbell above the chest. Lower it back behind the head in an arc until you feel a stretch, then pull it back over the chest. Keep the arms only slightly bent.",
+      "imagePath": null
+    },
+    {
+      "name": "Landmine Row",
+      "primaryMuscle": "BACK",
+      "secondaryMuscles": [
+        "BICEPS",
+        "TRAPS",
+        "FOREARMS"
+      ],
+      "equipment": "BARBELL",
+      "instructions": "Straddle a landmine bar and grip the sleeve with both hands or a handle. Hinge over and row the bar to the chest, squeezing the mid-back. Lower under control to a full stretch.",
+      "imagePath": null
+    },
+    {
+      "name": "Zercher Squat",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": [
+        "GLUTES",
+        "ABS",
+        "BACK"
+      ],
+      "equipment": "BARBELL",
+      "instructions": "Cradle the bar in the crooks of the elbows against the torso. Squat down while keeping the chest tall, then drive back up. The front-loaded hold heavily engages the core and upper back.",
+      "imagePath": null
+    },
+    {
+      "name": "Frog Pump",
+      "primaryMuscle": "GLUTES",
+      "secondaryMuscles": [
+        "HAMSTRINGS"
+      ],
+      "equipment": "DUMBBELL",
+      "instructions": "Lie on your back with the soles of the feet together and knees splayed out. Place a dumbbell on the hips and drive them up, squeezing the glutes hard. Lower under control for high-rep glute work.",
+      "imagePath": null
+    },
+    {
+      "name": "Cable Rear Delt Flye",
+      "primaryMuscle": "SHOULDERS",
+      "secondaryMuscles": [
+        "BACK",
+        "TRAPS"
+      ],
+      "equipment": "CABLE",
+      "instructions": "Stand between two high pulleys and grip the opposite handles across the body. Sweep the arms out and back in a wide arc, squeezing the rear delts. Return under control for constant tension.",
+      "imagePath": null
+    },
+    {
+      "name": "Decline Dumbbell Bench Press",
+      "primaryMuscle": "CHEST",
+      "secondaryMuscles": [
+        "TRICEPS"
+      ],
+      "equipment": "DUMBBELL",
+      "instructions": "Secure your legs on a decline bench with a dumbbell in each hand. Press the weights up over the lower chest, then lower to a stretch. The decline angle emphasises the lower pec fibres.",
+      "imagePath": null
+    },
+    {
+      "name": "Reverse Lunge",
+      "primaryMuscle": "QUADS",
+      "secondaryMuscles": [
+        "GLUTES",
+        "HAMSTRINGS"
+      ],
+      "equipment": "DUMBBELL",
+      "instructions": "Hold dumbbells and step one leg back into a lunge until both knees reach 90 degrees. Drive through the front heel to return to standing. The reverse motion is easier on the knees than forward lunges.",
+      "imagePath": null
+    },
+    {
+      "name": "Machine Hip Thrust",
+      "primaryMuscle": "GLUTES",
+      "secondaryMuscles": [
+        "HAMSTRINGS"
+      ],
+      "equipment": "MACHINE",
+      "instructions": "Sit in the hip thrust machine with the pad over the hips. Drive the hips forward against the resistance, squeezing the glutes at lockout. Lower under control. The machine makes heavy glute loading convenient.",
+      "imagePath": null
+    }
+  ]
+}
